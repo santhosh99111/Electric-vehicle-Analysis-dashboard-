@@ -62,4 +62,4 @@ Other models such as ID.4, Model X, Niro, and Volt are also included.
 The dashboard provides a comprehensive overview of the electric vehicle landscape, showcasing significant adoption and distribution across different makes, models, and regions. This data could be useful for stakeholders looking to understand market dynamics, consumer preferences, and areas for potential growth in electric vehicle infrastructure.
 
 
-![Alt Text]()
+![Alt Text](IMG_20250305_193258.jpg)
